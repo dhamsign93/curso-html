@@ -1,0 +1,19 @@
+body {
+    background: #8396a1;
+}
+
+/* DE CERO HASTA 768PX */
+
+@media (max-width: 768px) {
+    body {
+        background: red;
+    }
+}
+
+
+/* DE 768PX hacia arriba*/
+@media (min-width:768px) {
+    body {
+        background: salmon;
+    }
+}
