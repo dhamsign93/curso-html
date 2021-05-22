@@ -1,0 +1,20 @@
+body{
+    font-size: 12px;
+    color: peru;
+}
+
+h1{
+    color: red;
+}
+
+.titulo{
+    color: blue;
+}
+
+#title{
+    color: magenta;
+}
+
+h1.titulo{
+    
+}
