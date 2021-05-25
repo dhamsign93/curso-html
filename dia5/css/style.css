@@ -1,0 +1,25 @@
+h1{
+    font-size: 5em;
+}
+
+.titulo{
+    color: red;
+}
+
+#titulo{
+    color: blue;
+}
+
+h1.titulo{
+    color: teal;
+}
+
+body .titulo{
+    color: brown;
+}
+.titulo#titulo{
+    color: brown;
+}
+.titulo#titulo{
+    color: rgb(79, 165, 42);
+}
