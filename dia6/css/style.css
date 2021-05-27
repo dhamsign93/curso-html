@@ -1,0 +1,31 @@
+.borde{
+    padding: 30px;
+    border-top: 3px solid red;
+    border-bottom: 3px solid blue;
+    border-right: 3px solid magenta;
+    border-left: 3px solid black;
+
+    border: 5px solid orange;
+
+}
+
+body{
+    color: red;
+    background: url();
+}
+
+ul li {
+    list-style: none;
+}
+
+a{
+    color: currentColor;
+}
+
+.borde{
+    border: 1px solid red;
+}
+
+/* display block ocupan todo el ancho de la pagina, tiene ancho y alto | crea nueva linea */
+/* display inline ocupa solo lo que necesita | no crea nueva linea */
+/* display inline block ocupa el ancho que necesita y tiene ancho y alto */
